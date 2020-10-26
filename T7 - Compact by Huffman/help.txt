@@ -1,0 +1,6 @@
+open Code;
+execute makefile;
+
+./saida compact (archive of Data/); // for compact archive
+./saida descompact (archive of Data/); // for descompact archive
+

@@ -1,0 +1,3 @@
+execute makefile;
+./saida name of archive of input
+the out archive it will be contained folder Output

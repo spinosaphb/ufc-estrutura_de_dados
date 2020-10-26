@@ -1,0 +1,7 @@
+WORD COUNTER
+
+don't                   4
+know                    4
+make                    4
+this                    4
+sorry                   4
